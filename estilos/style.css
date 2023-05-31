@@ -10,6 +10,7 @@ html, body {
     height: 100vh;
     width: 100vw;
     background-color: black;
+    background-attachment:fixed ;
 }
 
 body {
@@ -36,6 +37,7 @@ section#telefone {
     background: url('../imagens/frame-iphone.png') no-repeat; /*deixa a imagem como fundo*/
     border-radius: 25px;
 }
+
 
 iframe#tela {
 
