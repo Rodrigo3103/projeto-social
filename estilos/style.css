@@ -30,13 +30,12 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
     height: 627px;
     width: 311px;
     /*background-color: blue;*/
     background: url('../imagens/frame-iphone.png') no-repeat; /*deixa a imagem como fundo*/
-    background-size: cover;
     background-attachment: fixed;
+    background-size: cover;
     border-radius: 25px;
 }
 
@@ -63,7 +62,7 @@ section#redes-sociais img {
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.473);
     box-sizing: border-box;
-    position: static;
+    
     
     
 }
